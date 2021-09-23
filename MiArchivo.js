@@ -1,4 +1,4 @@
-valor1= Number(prompt("Ingrese un valor mayor a 100"));
+const valor1= Number(prompt("Ingrese un valor mayor a 100"));
 
 if (valor1>100) {
     alert("El número ingresado es: "+valor1);
